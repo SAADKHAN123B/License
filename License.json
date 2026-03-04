@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "expiry":  "2026-3-6",
   "message": "Licensed to SARKAR",
   "version_min": "5.0"
